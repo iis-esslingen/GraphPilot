@@ -13,8 +13,8 @@
 </div>
 
 ## 📢 Updates
+- **[2026/10]** GraphPilot has been accepted to **WACV 2027**! The training code, scene graph datasets, fine-tuned models, and evaluation scripts will be released by the end of October 2026.
 - **[2025/11]** Paper released on arXiv!
-- **[Coming Soon]** We will release the full training code, scene graph datasets, fine-tuned models, and evaluation scripts upon paper acceptance.
 
 ---
 
